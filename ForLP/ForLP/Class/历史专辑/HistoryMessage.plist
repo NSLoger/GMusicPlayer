@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>AlbumIntroduction</key>
+		<string></string>
+		<key>AlbumLogo</key>
+		<string>HybridTheoryLogo.jpg</string>
+		<key>AlbumName</key>
+		<string>Hybrid Theory(混合理论)</string>
+		<key>AlbumDate</key>
+		<string>2000</string>
+		<key>AlbumMusics</key>
+		<array>
+			<dict>
+				<key>MusicName</key>
+				<string>Papercut</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>One Step Closer</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>With You</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Points Of Authority</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Crawling</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Runaway</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>By Myself</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>In the End</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>A Place for My Head</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Forgotten</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Cure for the Itch</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Pushing Me Away</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>AlbumIntroduction</key>
+		<string></string>
+		<key>AlbumLogo</key>
+		<string>MeteoraLogo.jpg</string>
+		<key>AlbumName</key>
+		<string>Meteora(流星圣殿)</string>
+		<key>AlbumDate</key>
+		<string>2003-03-25</string>
+		<key>AlbumMusics</key>
+		<array>
+			<dict>
+				<key>MusicName</key>
+				<string>Foreword</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Don&apos;t Stay</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Somewhere I Belong</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Lying From You</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Hit The Floor</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Easier To Run</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Faint</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Figure.09</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Breaking The Habit</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>From The Inside</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Nobody&apos;s Listening</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Session</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Numb</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>AlbumIntroduction</key>
+		<string></string>
+		<key>AlbumLogo</key>
+		<string>MinutesToMidnightLogo.jpg</string>
+		<key>AlbumName</key>
+		<string>Minutes To Midnight(末日警钟 毁灭 新生)</string>
+		<key>AlbumDate</key>
+		<string>2007</string>
+		<key>AlbumMusics</key>
+		<array>
+			<dict>
+				<key>MusicName</key>
+				<string>Wake</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Given Up</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Leave Out All The Rest</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Bleed It Out</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Shadow Of The Day</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>What I&apos;ve Done</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Hands Held High</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>No More Sorrow</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Valentine&apos;s Day</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>In Between</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>In Pieces</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>The Little Things You Give Away</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Cure For The Itch</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>By Myself - Remix – Marilyn Manson</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Announcement Service Public</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Reading My Eyes (Live)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>In The End (Club Mix)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Pushing Me Away (Live)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Qwerty</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Breaking The Habbit (Live)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Sold My Soul To Yo Mama</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Breaking The Habbit (Live)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Standing In The Middle</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Step Up / Nobody&apos;s Listening / It&apos;s Going Down (Live)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Wish (Live)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>One Step Closer (Live) - Featuring – Jonathan Davis</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Dirt Off Your Shoulder / Lying From You - Featuring – Jay-Z</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Big Pimpin - Papercut - Featuring – Jay-Z</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Jigga What - Faint - Featuring – Jay-Z</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Numb - Encore - Featuring – Jay-Z</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Izzo - In The End - Featuring – Jay-Z</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Point Of Authority - 99 Problems - One Step Closer - Featuring – Jay-Z</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Don&apos;t Stay</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Figure</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Lying From You</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Crawling</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Somewhere I Belong</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>My Reason</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>AlbumIntroduction</key>
+		<string></string>
+		<key>AlbumLogo</key>
+		<string>AThousandSunsLogo.jpg</string>
+		<key>AlbumName</key>
+		<string>A Thousand Suns(烈日千阳)</string>
+		<key>AlbumDate</key>
+		<string>2010-09-14</string>
+		<key>AlbumMusics</key>
+		<array>
+			<dict>
+				<key>MusicName</key>
+				<string>The Requiem</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>The Radiance</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Burning In The Skies</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Empty Spaces</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>When They Come For Me</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Robot Boy</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Jornada Del Muerto</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Waiting For The End</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Blackout</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Wretches Kings</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Wisdom, Justice Love</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Iridescent</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Fallout</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>The Catalyst</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>The Messenger</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>AlbumIntroduction</key>
+		<string></string>
+		<key>AlbumLogo</key>
+		<string>LivingThingsLogo.jpg</string>
+		<key>AlbumName</key>
+		<string>Living Things(生生相惜)</string>
+		<key>AlbumDate</key>
+		<string>2012-06-26</string>
+		<key>AlbumMusics</key>
+		<array>
+			<dict>
+				<key>MusicName</key>
+				<string>Lost In The Echo</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>In My Remains</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Burn It Down</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Lies Greed Misery</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>I&apos;ll Be Gone</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Castle Of Glass</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Victimized</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Roads Untraveled</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Skin To Bone</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Until It Breaks</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Tinfoil</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Powerless</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>AlbumIntroduction</key>
+		<string></string>
+		<key>AlbumLogo</key>
+		<string>TheHuntingPartyLogo.jpg</string>
+		<key>AlbumName</key>
+		<string>The Hunting Party(狩猎派对)</string>
+		<key>AlbumDate</key>
+		<string>2014-06-18</string>
+		<key>AlbumMusics</key>
+		<array>
+			<dict>
+				<key>MusicName</key>
+				<string>Keys To The Kingdom</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>All For Nothing (feat. Page Hamilton)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Guilty All The Same (feat. Rakim)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>The Summoning</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>War</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Wastelands</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Until It&apos;s Gone</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Rebellion (feat. Daron Malakian)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Mark The Graves</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Drawbar (feat. Tom Morello)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Final Masquerade</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>A Line In The Sand</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>AlbumIntroduction</key>
+		<string></string>
+		<key>AlbumLogo</key>
+		<string>OneMoreLightLogo.jpg</string>
+		<key>AlbumName</key>
+		<string>One More Light(光芒再现)</string>
+		<key>AlbumDate</key>
+		<string>2017-05-19</string>
+		<key>AlbumMusics</key>
+		<array>
+			<dict>
+				<key>MusicName</key>
+				<string>Nobody Can Save Me</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Good Goodbye (feat. Pusha T and Stormzy)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Talking to Myself</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Battle Symphony</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Invisible</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Heavy (feat. Kiiara)</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Sorry for Now</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Halfway Right</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>One More Light</string>
+			</dict>
+			<dict>
+				<key>MusicName</key>
+				<string>Sharp Edges</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -22,7 +22,7 @@ class MusicPlayerVC: GBaseViewController {
     let userDefaults = UserDefaults.standard
     
     var playerBgView:UIView!              //播放背景图片
-    var backReBtn:UIButton!                 //新返回按钮
+    var backReBtn:UIButton!               //新返回按钮
     var collectBtn:UIButton!              //收藏按钮
     var collectStatusLogo:UIImageView!    //收藏logo
     //默认展示内容背景
@@ -145,11 +145,10 @@ class MusicPlayerVC: GBaseViewController {
         player.play()
         
         //总时长和播放过程中时间和进度的变化
-        let durationT : CMTime = playerItem.asset.duration
-        let dSecond : Float64 = CMTimeGetSeconds(durationT)
-        
         player.addPeriodicTimeObserver(forInterval: CMTimeMakeWithSeconds(1, preferredTimescale: 1), queue: DispatchQueue.main) { (CMTime) -> Void in
             
+            let durationT : CMTime = (self.player.currentItem?.asset.duration)!
+            let dSecond : Float64 = CMTimeGetSeconds(durationT)
             //适配后台播放
             if self.player.currentItem?.status == .readyToPlay && self.player.rate != 0 {
                 let currentT = CMTimeGetSeconds(self.player!.currentTime())
@@ -362,8 +361,11 @@ class MusicPlayerVC: GBaseViewController {
         print("播放完毕")
         //移除通知，更改控制面板状态，更改播放进度数据，暂停唱片动画
         NotificationCenter.default.removeObserver(self, name: NSNotification.Name.AVPlayerItemDidPlayToEndTime, object: player.currentItem)
+        
+        //更改控制器面板和进度面板状态
         controlBgView.changeStatus(isSelected: true)
         durationBgView.setDefaultData()
+        //停止音乐播放'唱片'动画
         self.musicLogoImgV.layer.pauseAnimation()
         
         //重新装配播放下一首
@@ -375,10 +377,11 @@ class MusicPlayerVC: GBaseViewController {
         self.player.replaceCurrentItem(with: playerItem)
         self.player.play()
         
-        //再次更新控制面板状态，添加新的通知，开始唱片动画
+        //再次更新控制面板状态，开始唱片动画
         controlBgView.changeStatus(isSelected: false)
-        NotificationCenter.default.addObserver(self, selector: #selector(musicDidFinishPlay), name: NSNotification.Name.AVPlayerItemDidPlayToEndTime, object: player.currentItem)
         self.musicLogoImgV.layer.resumeAnimation()
+        //添加新的通知
+        NotificationCenter.default.addObserver(self, selector: #selector(musicDidFinishPlay), name: NSNotification.Name.AVPlayerItemDidPlayToEndTime, object: player.currentItem)
     }
     
 //    MARK: -重写系统方法

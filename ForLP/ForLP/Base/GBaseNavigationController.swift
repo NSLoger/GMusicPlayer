@@ -16,6 +16,8 @@ class GBaseNavigationController: UINavigationController {
         
         self.navigationBar.isTranslucent = false
         
+        
+        
         if #available(iOS 15.0, *) {
             let itemAppearance = UINavigationBarAppearance()
             itemAppearance.configureWithOpaqueBackground()
@@ -26,6 +28,9 @@ class GBaseNavigationController: UINavigationController {
             itemAppearance.shadowImage = UIImage()
             self.navigationBar.standardAppearance = itemAppearance
             self.navigationBar.scrollEdgeAppearance = itemAppearance
+            
+            //适配UITableView在iOS15以后的新特性
+            UITableView.appearance().sectionHeaderTopPadding = 0.0
         } else {
             //顶部线条颜色
             self.navigationBar.tintColor = UIColor.white
